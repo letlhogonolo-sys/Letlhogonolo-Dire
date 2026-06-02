@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Tlhogi
+#  Hi, I'm Tlhogi
 
-## 📌 Project Management Intern
+##  Project Management Intern
 
 📊 Excel & Power BI Enthusiast
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 👨‍💼 About Me
+##  About Me
 
 I am a Project Management Intern with experience in project planning, scheduling, reporting, documentation management, and data analysis. I enjoy transforming project data into meaningful insights that support decision-making and improve project performance.
 
 ---
 
-## 🏆 Project Management Skills
+##  Project Management Skills
 
 📅 Project Scheduling
 
@@ -50,7 +50,7 @@ I am a Project Management Intern with experience in project planning, scheduling
 
 ---
 
-## 📋 Skills Summary
+##  Skills Summary
 
 | Area | Skills |
 |--------|--------|
@@ -63,7 +63,7 @@ I am a Project Management Intern with experience in project planning, scheduling
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 📊 Project Reporting Dashboard
 - Developed project performance dashboards using Excel and Power BI.
@@ -82,7 +82,7 @@ I am a Project Management Intern with experience in project planning, scheduling
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Agile Project Management
 - PMO Best Practices
